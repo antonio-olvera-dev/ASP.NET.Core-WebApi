@@ -2,12 +2,16 @@
 ## Instrucciones 📖
 ### Versión 1.6.3
 ### Instalación 🔨
-
+- Tener Instalado [Dotnet](https://dotnet.microsoft.com/download/dotnet/5.0) o estar en Windows
 ```sh
 $ git clone https://github.com/antonioolvera1995/ASP.NET.Core-WebApi.git
 ```
 ### Iniciar 🚀
 - Ejecutar .\asp.net-core-api\bin\Debug\netcoreapp3.1\asp.net-core-api.exe
+- Si estas en Linux, Ubuntu... puedes ejecutar el siguente comando 
+```sh
+$ dotnet run 
+```
 ### Uso
 - Abrir Postman y hacer una petición GET en:  http://localhost:5000/users
 - - Esta ruta devuelve todos los usuarios
@@ -37,3 +41,4 @@ Lista inicial de los usuarios:
 ```cs
 public static List<string> lista = new List<string> { "Antonio", "Pepe", "Juan", "Vicente", "Victor", "Pedro" };
 ```
+
