@@ -1,8 +1,8 @@
 ﻿# ASP.NET.Core-WebApi
 ## Instrucciones 📖
 ### Versión 1.6.3
-##### Requisitos 
 ### Instalación 🔨
+##### Requisitos 
 - Tener Instalado [Dotnet](https://dotnet.microsoft.com/download/dotnet/5.0) o estar en Windows
 ```sh
 $ git clone https://github.com/antonioolvera1995/ASP.NET.Core-WebApi.git
