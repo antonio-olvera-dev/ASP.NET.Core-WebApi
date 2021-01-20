@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>asp.net_core_api</RootNamespace>
+    <ApplicationIcon>python.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
